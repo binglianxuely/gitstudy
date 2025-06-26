@@ -1,2 +1,3 @@
 ac自动机
-dfa算法
+dfa算法quick sort
+bubble sort
